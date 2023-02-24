@@ -9,7 +9,7 @@
 
 ### :books: Language Usage
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JehyunJung&layout=compact&theme=dark&exclude_repo=AlgorithmStudy,MachineLearningCourse,Data_Analysis)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JehyunJung&layout=compact&theme=dark&hide=jupyter%20notebook)
 
 ### :computer: Platforms & Languages
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
